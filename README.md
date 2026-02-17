@@ -85,7 +85,7 @@ The dataset contains structured housing-related features such as:
 
 ```bash
 git clone https://github.com/your-username/end-to-end-house-price-prediction-ml.git
-cd end-to-end-house-price-prediction-ml
+cd house-price-prediction-ml
 ```
 
 ### 2️⃣ Install Dependencies
