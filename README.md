@@ -16,7 +16,8 @@ The project demonstrates data preprocessing, exploratory data analysis (EDA), mo
 └── README.md                          # Project documentation
 ```
 
-⚠️ Note: The dataset is imported directly from the `scikit-learn` library. No external dataset file is included in this repository.
+⚠️ Note: The dataset is imported directly from the `scikit-learn` library. 
+No external dataset file is included in this repository.
 
 ---
 
