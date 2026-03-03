@@ -127,3 +127,11 @@ This project demonstrates practical implementation of regression algorithms for 
 **Tejal Pagar**  
 AI/ML Enthusiast | Data Science Learner  
 📍 India
+
+---
+
+⭐ If you find this repository helpful, feel free to star it!
+
+
+
+
